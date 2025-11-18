@@ -39,6 +39,7 @@ Como Executar o Projeto:
 Abra o arquivo index.html na pasta que esta salvo os arquivos, ou execute em servidor local(recomendado) dentro do vsCode.
 
 👨‍💻 Autores
+
 Gustavo Correa gustavo.correa11@fatec.sp.gov.br
 
 Isabeli Pires Quagliatto Isabeli.quagliatto@fatec.sp.gov.br
